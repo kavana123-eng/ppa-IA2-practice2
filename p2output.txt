@@ -1,1 +1,9 @@
-
+ gcc -g p2original.c
+ ./a.out
+enter the side of triangle
+7
+enter the side of triangle
+7
+enter the side of triangle
+8
+the given triangle is isosceles 
