@@ -14,7 +14,7 @@ void find_area(float base,float height,float *area)
 }
 void output(float base,float height,float area)
 {
-  printf("The area of %f %f is %f",base,height,area);
+  printf("The area of %f and %f is %f",base,height,area);
   return;
 }
 int main()
